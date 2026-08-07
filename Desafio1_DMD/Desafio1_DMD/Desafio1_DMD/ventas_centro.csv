@@ -1,0 +1,26 @@
+IdVenta,Cliente,Departamento,Producto,Cantidad,Precio,FechaVenta
+1001,Juan Pérez,San Salvador,Laptop,2,850.00,2026-05-01
+1002,Ana López,San Salvador,Mouse,5,15.50,2026-05-01
+1003,Carlos Ruiz,La Libertad,Monitor,1,220.00,2026-05-02
+1004,Sofía Hernández,La Libertad,Teclado,3,28.75,2026-05-02
+1005,Luis Gómez,San Salvador,Impresora,1,180.00,2026-05-03
+1006,Marta Díaz,Cuscatlán,Disco SSD,4,95.00,2026-05-03
+1007,José Molina,Cuscatlán,Memoria RAM,2,65.00,2026-05-04
+1008,Pedro Flores,San Salvador,Monitor,0,240.00,2026-05-04
+1009,María Castro,La Libertad,Laptop,1,-950.00,2026-05-05
+1010,Ricardo Vega,Cuscatlán,Mouse,6,14.50,2026-05-05
+1011,Karla Ramos,San Salvador,Teclado,2,30.00,2026-05-06
+1012,Daniel Ortiz,San Salvador,Tablet,3,320.00,2026-05-06
+1013,Patricia Cruz,La Libertad,Monitor,2,215.00,2026-05-07
+1014,Hugo Pérez,Cuscatlán,Router,1,120.00,2026-05-07
+1015,Silvia Campos,San Salvador,Switch,1,175.00,2026-05-08
+1016,Oscar Peña,La Libertad,Disco SSD,2,98.00,2026-05-08
+1017,Andrea López,Cuscatlán,Mouse,8,15.00,2026-05-09
+1018,Raúl Castillo,San Salvador,Impresora,1,185.00,2026-05-09
+1019,Diana Torres,San Salvador,Laptop,1,880.00,2026-15-09
+1020,Kevin Romero,La Libertad,Tablet,2,315.00,2026-05-10
+1021,Juan Pérez,San Salvador,Laptop,2,850.00,2026-05-01
+1022,Gloria Salazar,Cuscatlán,Router,-1,115.00,2026-05-10
+1023,Marvin Chávez,San Salvador,Monitor,2,225.00,2026-05-11
+1024,Elsa Herrera,La Libertad,Switch,1,170.00,2026-05-11
+1025,David Rivas,Cuscatlán,Mouse,10,14.00,2026-05-12

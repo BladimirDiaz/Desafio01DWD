@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DESAFIO1_PL250256_OF250185_DMD", "..\DESAFIO_ETL_PL250256_OF250185\DESAFIO1_PL250256_OF250185_DMD\DESAFIO1_PL250256_OF250185_DMD\DESAFIO1_PL250256_OF250185_DMD.dtproj", "{2605C5AE-CDC8-0CDB-CC07-825F345F5988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2605C5AE-CDC8-0CDB-CC07-825F345F5988}.Development|Default.ActiveCfg = Development
+		{2605C5AE-CDC8-0CDB-CC07-825F345F5988}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5136284-D277-4806-AD7F-2975C75F999A}
+	EndGlobalSection
+EndGlobal
