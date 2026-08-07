@@ -1,0 +1,10 @@
+IdVenta,Cliente,Departamento,Producto,Cantidad,Precio,FechaVenta,Venta_Total,NombreCompletoProducto
+2013,René Castro,Santa Ana,Monitor,2,-220,2026-05-07,-440.00,Monitor Santa Ana
+2015,Fernando Ortiz,Sonsonate,Router,0,125,2026-05-08,.00,Router Sonsonate
+2025,Edgar Castillo,Santa Ana,Mouse,-2,15,2026-05-12,-30.00,Mouse Santa Ana
+1008,Pedro Flores,San Salvador,Monitor,0,240,2026-05-04,.00,Monitor San Salvador
+1009,María Castro,La Libertad,Laptop,1,-950,2026-05-05,-950.00,Laptop La Libertad
+1022,Gloria Salazar,Cuscatlán,Router,-1,115,2026-05-10,-115.00,Router Cuscatlán
+3014,Karen Salazar,Usulután,Teclado,2,-32,2026-05-07,-64.00,Teclado Usulután
+3017,Raúl Herrera,San Miguel,Mouse,0,15,2026-05-09,.00,Mouse San Miguel
+3025,Gloria Ramos,San Miguel,Router,-3,119,2026-05-12,-357.00,Router San Miguel

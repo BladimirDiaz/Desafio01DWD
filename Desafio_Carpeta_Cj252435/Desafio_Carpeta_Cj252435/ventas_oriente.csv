@@ -1,0 +1,26 @@
+IdVenta;Cliente;Departamento;Producto;Cantidad;Precio;FechaVenta
+3001;César López;San Miguel;Laptop;1;855.00;01/05/2026
+3002;Ana Martínez;Usulután;Mouse;5;15.50;01/05/2026
+3003;David Ramos;La Unión;Monitor;2;218.00;02/05/2026
+3004;Mónica Pérez;Morazán;Teclado;3;30.00;02/05/2026
+3005;Rosa Flores;San Miguel;Tablet;1;320.00;03/05/2026
+3006;Kevin Hernández;Usulután;Disco SSD;2;94.00;03/05/2026
+3007;Silvia Gómez;La Unión;Impresora;1;182.00;04/05/2026
+3008;Pedro Cruz;Morazán;Router;1;122.00;04/05/2026
+3009;Carlos Rivera;San Miguel;Switch;2;176.00;05/05/2026
+3010;María Torres;Usulután;Mouse;7;15.00;05/05/2026
+3011;José Vega;La Unión;Laptop;1;870.00;06/05/2026
+3012;Andrea Ortiz;Morazán;Monitor;2;225.00;06/05/2026
+3013;Luis Castillo;San Miguel;Memoria RAM;3;69.00;07/05/2026
+3014;Karen Salazar;Usulután;Teclado;2;-32.00;07/05/2026
+3015;Hugo Chávez;La Unión;Tablet;2;315.00;08/05/2026
+3016;Diana Molina;Morazán;Disco SSD;4;93.00;08/05/2026
+3017;Raúl Herrera;San Miguel;Mouse;0;15.00;09/05/2026
+3018;Sandra Campos;Usulután;Impresora;1;184.00;09/05/2026
+3019;Patricia Romero;La Unión;Router;1;120.00;10/05/2026
+3020;Julio Peña;Morazán;Switch;2;178.00;10/05/2026
+3021;César López;San Miguel;Laptop;1;855.00;01/05/2026
+3022;Fernando Díaz;Usulután;Monitor;1;219.00;11/05/2026
+3023;Laura Castro;La Unión;Tablet;2;318.00;11/05/2026
+3024;Ricardo Flores;Morazán;Mouse;6;15.50;2026-13-11
+3025;Gloria Ramos;San Miguel;Router;-3;119.00;12/05/2026
